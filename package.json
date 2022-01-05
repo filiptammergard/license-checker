@@ -7,9 +7,6 @@
     "prettier": "prettier --write .",
     "review": "npm ci && npm run lint && npm run prettier"
   },
-  "dependencies": {
-    "license-checker": "25.0.1"
-  },
   "devDependencies": {
     "@tammergard/eslint-config-base": "2.2.0",
     "@tammergard/prettier-config": "1.4.0",
