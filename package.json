@@ -19,7 +19,7 @@
     "prettier": "2.5.1",
     "semantic-release": "18.0.1"
   },
-  "bin": "index.js",
+  "bin": "index.bash",
   "files": [
     "index.js"
   ],
