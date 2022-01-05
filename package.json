@@ -20,9 +20,6 @@
     "semantic-release": "18.0.1"
   },
   "bin": "index.bash",
-  "files": [
-    "index.js"
-  ],
   "publishConfig": {
     "access": "public"
   },
