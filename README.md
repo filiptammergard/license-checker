@@ -4,12 +4,10 @@ A sharable license checker with personal license preference settings.
 
 ## Usage
 
-```bash
-# npm
-npx @tammergard/license-checker
+Run the license checker with npx:
 
-# yarn
-yarn @tammergard/license-checker
+```bash
+npx @tammergard/license-checker
 ```
 
 
