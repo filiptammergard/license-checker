@@ -31,7 +31,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/filiptammergard/prettier-config.git"
+    "url": "git+https://github.com/filiptammergard/license-checker.git"
   },
   "keywords": [
     "license",
@@ -41,7 +41,7 @@
   "author": "Filip Tammergård <filip+npm@tammergard.se> (https://tammergard.se/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/filiptammergard/prettier-config/issues"
+    "url": "https://github.com/filiptammergard/license-checker/issues"
   },
-  "homepage": "https://github.com/filiptammergard/prettier-config#readme"
+  "homepage": "https://github.com/filiptammergard/license-checker#readme"
 }
