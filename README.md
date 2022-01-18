@@ -10,7 +10,6 @@ Run the license checker with npx:
 npx @tammergard/license-checker
 ```
 
-
 ## License
 
 MIT
