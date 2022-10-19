@@ -1,38 +1,38 @@
 {
-  "name": "@tammergard/license-checker",
-  "version": "0.0.0-development",
-  "description": "A sharable license checker with personal license preference settings",
-  "scripts": {
-    "format": "prettier --write .",
-    "format-check": "prettier --check .",
-    "lint": "eslint .",
-    "review": "yarn install --frozen-lockfile && yarn format-check && yarn lint"
-  },
-  "devDependencies": {
-    "@tammergard/eslint-config-base": "3.0.0",
-    "@tammergard/prettier-config": "1.5.0",
-    "@tammergard/semantic-release-config-npm": "1.1.0",
-    "eslint": "8.25.0",
-    "prettier": "2.7.1",
-    "semantic-release": "19.0.5"
-  },
-  "bin": "index.bash",
-  "publishConfig": {
-    "access": "public"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/filiptammergard/license-checker.git"
-  },
-  "keywords": [
-    "license",
-    "checker",
-    "license-checker"
-  ],
-  "author": "Filip Tammergård <filip+npm@tammergard.se> (https://tammergard.se/)",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/filiptammergard/license-checker/issues"
-  },
-  "homepage": "https://github.com/filiptammergard/license-checker#readme"
+	"name": "@tammergard/license-checker",
+	"version": "0.0.0-development",
+	"description": "A sharable license checker with personal license preference settings",
+	"scripts": {
+		"format": "prettier --write .",
+		"format-check": "prettier --check .",
+		"lint": "eslint .",
+		"review": "yarn install --frozen-lockfile && yarn format-check && yarn lint"
+	},
+	"devDependencies": {
+		"@tammergard/eslint-config-base": "3.0.0",
+		"@tammergard/prettier-config": "2.0.0",
+		"@tammergard/semantic-release-config-npm": "1.1.0",
+		"eslint": "8.25.0",
+		"prettier": "2.7.1",
+		"semantic-release": "19.0.5"
+	},
+	"bin": "index.bash",
+	"publishConfig": {
+		"access": "public"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/filiptammergard/license-checker.git"
+	},
+	"keywords": [
+		"license",
+		"checker",
+		"license-checker"
+	],
+	"author": "Filip Tammergård <filip+npm@tammergard.se> (https://tammergard.se/)",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/filiptammergard/license-checker/issues"
+	},
+	"homepage": "https://github.com/filiptammergard/license-checker#readme"
 }
